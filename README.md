@@ -6,7 +6,7 @@ nothing sampled or adapted from any existing song.
 **Listen and share:** this repository hosts the song's public page —
 it is served live at:
 
-**https://seviaafrica-creator.github.io/let-freedom-be-our-legacy/**
+**https://seviaafrica-creator.github.io/Freedom-Song/**
 
 - `index.html` — the public share page (player, download, lyrics)
 - `audio/freedom-song-take12-final.mp3` — the master recording (2:36)
